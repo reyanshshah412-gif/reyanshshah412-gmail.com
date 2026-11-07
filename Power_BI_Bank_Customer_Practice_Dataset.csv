@@ -1,0 +1,202 @@
+Customer_ID,Customer_Name,Age,City,Account_Type,Account_Balance,Interest_Rate,Loan_Amount,Loan_Type,Loan_Status,Employment_Status,Credit_Score,Customer_Since,Branch,Payment_Mode
+C1001,Customer_1,59.0,Kolkata,Savings,6542.0,8.76,900000,Home Loan,Approved,Self-Employed,660.0,2024-05-08,Branch-13,Net Banking
+C1002,Customer_2,49.0,Bengaluru,Current,288821.0,5.17,525000,Personal Loan,Approved,Self-Employed,556.0,2025-11-13,Branch-15,Net Banking
+C1003,Customer_3,35.0,Pune,Savings,182804.0,9.38,1525000,No Loan,Approved,Business,432.0,2023-11-12,Branch-14,Debit Card
+C1004,Customer_4,63.0,Jaipur,Savings,186415.0,8.87,325000,Home Loan,Pending,Retired,575.0,2019-09-26,Branch-4,Cheque
+C1005,Customer_5,28.0,Jaipur,Savings,44081.0,6.4,575000,Home Loan,Approved,Salaried,812.0,2026-03-06,Branch-2,Cheque
+C1006,Customer_6,,Jaipur,Savings,198928.0,4.08,375000,Home Loan,Approved,Retired,612.0,2018-12-01,Branch-13,Debit Card
+C1007,Customer_7,59.0,Delhi,Fixed Deposit,360249.0,9.38,1600000,Home Loan,Pending,Business,583.0,2023-06-08,Branch-12,Cash
+C1008,Customer_8,39.0,Chennai,Fixed Deposit,224930.0,7.94,1900000,Home Loan,Pending,Salaried,420.0,2021-05-23,Branch-15,UPI
+C1009,Customer_9,43.0,,Fixed Deposit,286209.0,10.34,1275000,Car Loan,Pending,Business,406.0,2020-05-26,Branch-6,UPI
+C1010,Customer_10,31.0,Pune,Savings,219532.0,7.94,1225000,Personal Loan,Pending,Business,503.0,2020-01-31,Branch-13,UPI
+C1011,Customer_11,31.0, delhi ,Savings,93092.0,11.1,925000,No Loan,Approved,Self-Employed,464.0,2024-02-15,Branch-11,Debit Card
+C1012,Customer_12,44.0,Mumbai,Fixed Deposit,321837.0,8.24,1225000,No Loan,Approved,Salaried,604.0,2023-05-25,Branch-14,Debit Card
+C1013,Customer_13,56.0,Chennai,Savings,294106.0,8.33,1700000,Personal Loan,Pending,Self-Employed,796.0,2020-04-05,Branch-2,Net Banking
+C1014,Customer_14,60.0,Chennai,Fixed Deposit,33295.0,11.33,100000,Personal Loan,Rejected,Salaried,455.0,2024-04-22,Branch-12,UPI
+C1015,Customer_15,44.0,Pune,Fixed Deposit,18807.0,,1625000,Personal Loan,Approved,Business,666.0,2019-10-03,Branch-7,Cash
+C1016,Customer_16,23.0,Kolkata,Fixed Deposit,440564.0,4.27,125000,Car Loan,Pending,Business,550.0,2017-02-05,Branch-3,Cash
+C1017,Customer_17,42.0,Mumbai,Savings,162504.0,3.27,1225000,Personal Loan,Approved,Retired,633.0,2019-01-14,Branch-15,UPI
+C1018,Customer_18,22.0,Bengaluru,Savings,481501.0,10.17,1750000,Car Loan,Approved,Salaried,810.0,2021-10-31,Branch-3,UPI
+C1019,Customer_19,44.0,Delhi,Fixed Deposit,243067.0,8.89,1000000,Personal Loan,Approved,Self-Employed,592.0,2017-12-19,Branch-5,UPI
+C1020,Customer_20,64.0,Hyderabad,Savings,490008.0,9.69,1550000,Car Loan,Rejected,Retired,319.0,2022-04-07,Branch-3,Debit Card
+C1021,Customer_21,50.0,Delhi,Savings,456070.0,5.02,325000,Personal Loan,Rejected,Retired,581.0,2017-03-14,Branch-2,Debit Card
+C1022,Customer_22,58.0,Jaipur,Savings,438478.0,4.3,675000,Personal Loan,Approved,Retired,300.0,2024-05-19,Branch-10,Debit Card
+C1023,Customer_23,22.0,Delhi,Fixed Deposit,173152.0,3.14,775000,No Loan,Pending,,418.0,2020-10-08,Branch-9,Cheque
+C1024,Customer_24,41.0,Bengaluru,Current,399540.0,6.33,625000,No Loan,Approved,Retired,334.0,2022-03-30,Branch-2,Cash
+C1025,Customer_25,53.0,Delhi,Savings,358411.0,8.6,850000,Home Loan,Approved,Self-Employed,497.0,2019-12-30,Branch-14,Cash
+C1026,Customer_26,32.0,Mumbai,Savings,171981.0,6.73,675000,No Loan,Pending,Retired,784.0,2023-10-09,Branch-11,Net Banking
+C1027,Customer_27,42.0,Mumbai,Savings,225411.0,7.16,900000,Personal Loan,Pending,Self-Employed,358.0,2025-05-05,Branch-2,Debit Card
+C1028,Customer_28,64.0,Chennai,Fixed Deposit,24870.0,11.59,1375000,No Loan,Pending,Business,460.0,2018-12-09,Branch-13,Cheque
+C1029,Customer_29,45.0,Pune,Savings,432794.0,6.31,625000,No Loan,Pending,Business,505.0,2021-12-10,Branch-15,Cheque
+C1030,Customer_30,,Kolkata,Savings,208196.0,7.88,1325000,Personal Loan,Rejected,Business,311.0,2024-02-22,Branch-8,Cash
+C1031,Customer_31,47.0,Hyderabad,Fixed Deposit,253683.0,10.44,775000,Home Loan,Rejected,Business,789.0,2024-11-15,Branch-15,Debit Card
+C1032,Customer_32,62.0,MUMBAI,Current,239677.0,6.77,1650000,Personal Loan,Approved,Business,575.0,2019-08-14,Branch-9,Net Banking
+C1033,Customer_33,48.0,Delhi,Current,31790.0,8.91,1600000,Car Loan,Approved,Retired,541.0,2024-01-09,Branch-7,Debit Card
+C1034,Customer_34,36.0,Delhi,Current,,11.19,200000,Car Loan,Approved,Retired,515.0,2023-10-12,Branch-3,UPI
+C1035,Customer_35,35.0,Bengaluru,Savings,292433.0,12.02,75000,Personal Loan,Approved,Retired,550.0,2017-06-09,Branch-9,Debit Card
+C1036,Customer_36,67.0,Pune,Savings,453345.0,4.4,1800000,Home Loan,Rejected,Self-Employed,425.0,2023-01-06,Branch-3,UPI
+C1037,Customer_37,64.0,Mumbai,Current,229786.0,11.8,900000,No Loan,Approved,Self-Employed,516.0,2024-09-24,Branch-5,UPI
+C1038,Customer_38,23.0,Hyderabad,Current,492462.0,7.68,275000,No Loan,Approved,Self-Employed,605.0,2026-01-15,Branch-9,Net Banking
+C1039,Customer_39,57.0,Chennai,Fixed Deposit,20485.0,5.45,725000,Car Loan,Approved,Self-Employed,484.0,2021-10-02,Branch-12,Cash
+C1040,Customer_40,27.0,Mumbai,Fixed Deposit,311626.0,7.36,1125000,Home Loan,Rejected,Business,338.0,2021-05-05,Branch-14,Debit Card
+C1041,Customer_41,41.0,Jaipur,Savings,91188.0,8.5%,1250000,Personal Loan,Approved,Business,522.0,2017-03-08,Branch-14,UPI
+C1042,Customer_42,29.0,Pune,Savings,9748.0,7.68,1350000,Home Loan,Pending,Business,483.0,2025-05-20,Branch-3,Debit Card
+C1043,Customer_43,59.0,Jaipur,Current,222841.0,6.12,325000,No Loan,Approved,Salaried,794.0,2023-08-26,Branch-7,Cash
+C1044,Customer_44,38.0,Kolkata,Savings,145507.0,9.02,675000,Home Loan,Approved,Retired,726.0,2017-02-27,Branch-12,Cash
+C1045,Customer_45,24.0,Chennai,Current,270853.0,5.28,150000,Car Loan,Rejected,Self-Employed,477.0,2026-02-13,Branch-1,Cheque
+C1046,Customer_46,45.0,,Current,128961.0,3.72,75000,Personal Loan,Pending,Self-Employed,727.0,2017-12-08,Branch-4,Cash
+C1047,Customer_47,34.0,Bengaluru,Fixed Deposit,35355.0,4.22,675000,Car Loan,Approved,Business,593.0,2020-02-28,Branch-4,Net Banking
+C1048,Customer_48,70.0,Jaipur,Savings,191843.0,4.22,1125000,Education Loan,Rejected,Self-Employed,450.0,2024-08-06,Branch-7,UPI
+C1049,Customer_49,29.0,Bengaluru,Savings,456015.0,4.44,1650000,No Loan,Rejected,Self-Employed,683.0,2020-04-10,Branch-8,Cheque
+C1050,Customer_50,46.0,Delhi,Savings,411332.0,4.32,1850000,Home Loan,Approved,Retired,607.0,,Branch-1,Net Banking
+C1051,Customer_51,22.0,Kolkata,Savings,161542.0,9.09,1075000,Home Loan,Pending,Business,635.0,2024-04-15,Branch-5,Debit Card
+C1052,Customer_52,40.0,Pune,Savings,178416.0,4.73,0,Home Loan,Pending,Retired,674.0,2020-05-17,Branch-7,UPI
+C1053,Customer_53,48.0,Jaipur,savings,310062.0,6.28,625000,No Loan,Rejected,Salaried,307.0,2023-07-30,Branch-12,Cash
+C1054,Customer_54,67.0,Hyderabad,Savings,319368.0,11.52,850000,No Loan,Pending,Salaried,640.0,2021-02-03,Branch-4,UPI
+C1055,Customer_55,27.0,Chennai,Savings,44298.0,7.5,850000,Car Loan,Pending,Salaried,428.0,2021-12-27,Branch-13,Debit Card
+C1056,Customer_56,64.0,Mumbai,Savings,347363.0,9.34,600000,Car Loan,Rejected,Business,651.0,2017-04-26,Branch-4,Cheque
+C1057,Customer_57,28.0,Pune,Savings,66629.0,4.64,1025000,Education Loan,Pending,Self-Employed,657.0,2026-02-18,Branch-4,Cheque
+C1058,Customer_58,67.0,Pune,Savings,333184.0,4.83,625000,Home Loan,Rejected,Business,816.0,2018-10-24,Branch-12,Cheque
+C1059,Customer_59,55.0,Bengaluru,Current,497734.0,3.39,1675000,No Loan,Rejected,Business,794.0,2021-01-05,Branch-6,Cash
+C1060,Customer_60,34.0,Kolkata,Savings,235907.0,4.6,450000,Personal Loan,Rejected,Self-Employed,385.0,2023-11-06,Branch-7,Net Banking
+C1061,Customer_61,37.0,Jaipur,Savings,295160.0,5.65,225000,Personal Loan,Pending,Retired,474.0,2022-02-12,Branch-2,Net Banking
+C1062,Customer_62,56.0,Jaipur,Savings,28960.0,4.68,1800000,Car Loan,Approved,Salaried,,2026-09-19,Branch-15,UPI
+C1063,Customer_63,70.0,Delhi,Current,300735.0,3.84,900000,Home Loan,Pending,Retired,610.0,2023-05-24,Branch-5,Cash
+C1064,Customer_64,60.0,Delhi,Savings,218920.0,4.15,100000,Home Loan,Pending,Salaried,418.0,2026-03-29,Branch-4,Cheque
+C1065,Customer_65,24.0,Chennai,Savings,370477.0,7.38,1750000,Education Loan,Approved, salaried ,517.0,2019-10-14,Branch-15,Cheque
+C1066,Customer_66,22.0,Bengaluru,Savings,247804.0,4.96,525000,Home Loan,Pending,Salaried,726.0,2017-11-07,Branch-14,Debit Card
+C1067,Customer_67,26.0,Pune,Savings,381965.0,6.46,1125000,Car Loan,Approved,Business,713.0,2017-07-27,Branch-13,Debit Card
+C1068,Customer_68,62.0,Jaipur,Savings,465857.0,7.78,1100000,Home Loan,Approved,Retired,413.0,2024-04-19,Branch-3,Cheque
+C1069,Customer_69,24.0,Hyderabad,Savings,303539.0,9.56,250000,Personal Loan,Rejected,Business,444.0,2023-10-30,Branch-7,Cheque
+C1070,Customer_70,49.0,Bengaluru,Savings,134695.0,3.37,275000,Personal Loan,Approved,Retired,837.0,2024-06-10,Branch-11,Cash
+C1071,Customer_71,38.0,Chennai,Current,420916.0,10.59,1500000,Personal Loan,Pending,Self-Employed,602.0,2018-09-25,Branch-12,Net Banking
+C1072,Customer_72,46.0,Chennai,Fixed Deposit,301764.0,8.97,2000000,Education Loan,Pending,Self-Employed,644.0,2022-10-04,Branch-6,Debit Card
+C1073,Customer_73,64.0,Bengaluru,Savings,239286.0,3.78,1450000,Personal Loan,Approved,Self-Employed,300.0,2025-02-07,Branch-14,Net Banking
+C1074,Customer_74,54.0,Chennai,Savings,133148.0,,1025000,Car Loan,Approved,Business,446.0,2025-06-11,Branch-7,Cash
+C1075,Customer_75,30.0,Bengaluru,Current,287703.0,11.75,1850000,Personal Loan,Approved,Self-Employed,586.0,2018-10-19,Branch-5,Cheque
+C1076,Customer_76,56.0,Mumbai,Savings,491261.0,3.58,1650000,Education Loan,Rejected,Salaried,352.0,2020-11-24,Branch-13,Net Banking
+C1077,Customer_77,34.0,Bengaluru,Savings,360540.0,5.63,75000,No Loan,Pending,Retired,603.0,2022-04-16,Branch-6,Cheque
+C1078,Customer_78,51.0,Kolkata,Savings,197714.0,10.66,875000,Education Loan,,Retired,368.0,2025-04-16,Branch-5,Cheque
+C1079,Customer_79,68.0,Bengaluru,Savings,212611.0,10.11,1750000,Home Loan,Approved,Salaried,660.0,2024-01-07,Branch-14,UPI
+C1080,Customer_80,35.0,Chennai,Fixed Deposit,288876.0,4.75,725000,Home Loan,Rejected,Business,519.0,2021-08-07,Branch-7,Net Banking
+C1081,Customer_81,28.0,Jaipur,Current,264747.0,4.99,175000,Personal Loan,Approved,Business,460.0,2017-08-25,Branch-2,Net Banking
+C1082,Customer_82,34.0,Kolkata,Current,96362.0,6.52,1225000,Car Loan,Pending,Retired,388.0,2026-03-05,Branch-14,Cheque
+C1083,Customer_83,43.0,Chennai,Savings,428570.0,7.6,675000,Home Loan,Approved,Self-Employed,458.0,2017-12-14,Branch-11,Cash
+C1084,Customer_84,60.0,Delhi,Savings,280987.0,8.87,1900000,Personal Loan,Pending,Business,788.0,2024-04-28,Branch-5,UPI
+C1085,Customer_85,41.0,Delhi,Savings,119065.0,6.5,950000,Car Loan,Approved,Business,623.0,2025-09-11,Branch-6,Cheque
+C1086,Customer_86,36.0,Jaipur,Savings,338870.0,7.39,975000,Personal Loan,Pending,Salaried,680.0,2018-09-22,Branch-6,Debit Card
+C1087,Customer_87,65.0,Jaipur,Savings,22640.0,10.1,225000,No Loan,Approved,Salaried,401.0,2021-03-21,Branch-15,Debit Card
+C1088,Customer_88,,Kolkata,Current,57528.0,3.35,525000,Home Loan,Rejected,Self-Employed,793.0,2022-06-27,Branch-5,UPI
+C1089,Customer_89,67.0,Mumbai,Current,305557.0,5.4,0,Home Loan,approved ,Business,318.0,2020-06-25,Branch-10,Cash
+C1090,Customer_90,44.0,Jaipur,Savings,264214.0,9.78,1100000,Education Loan,Approved,Business,753.0,2017-12-30,Branch-7,Cheque
+C1091,Customer_91,46.0,Delhi,Fixed Deposit,319782.0,11.5,475000,Personal Loan,Pending,Salaried,781.0,2023-06-27,Branch-10,Net Banking
+C1092,Customer_92,45.0,Bengaluru,Current,450952.0,7.86,850000,Education Loan,Rejected,Business,696.0,2017-10-13,Branch-8,UPI
+C1093,Customer_93,65.0,Chennai,Savings,115133.0,8.06,1300000,Personal Loan,Approved,Retired,578.0,2017-05-29,Branch-7,Cash
+C1094,Customer_94,61.0,Delhi,Savings,373501.0,4.02,1375000,Home Loan,Approved,Salaried,664.0,2020-01-13,Branch-5,Net Banking
+C1095,Customer_95,49.0,Delhi,Savings,204938.0,7.25,0,No Loan,Rejected,Self-Employed,630.0,2023-09-20,Branch-1,Debit Card
+C1096,Customer_96,35.0,Mumbai,Savings,155159.0,8.06,1525000,No Loan,Approved,Salaried,643.0,2025-04-14,Branch-13,Debit Card
+C1097,Customer_97,65.0,Kolkata,Savings,177502.0,5.3,1300000,Education Loan,Rejected,,754.0,2018-04-01,Branch-5,Net Banking
+C1098,Customer_98,21.0,Kolkata,Current,160576.0,5.56,1325000,Personal Loan,Approved,Self-Employed,364.0,2021-11-02,Branch-10,UPI
+C1099,Customer_99,45.0,Pune,Savings,405330.0,6.58,950000,Car Loan,Rejected,Salaried,375.0,2019-03-11,Branch-2,Debit Card
+C1100,Customer_100,27.0,Mumbai,Savings,"₹45,000",3.19,325000,Personal Loan,Approved,Retired,442.0,2020-03-30,Branch-13,Cheque
+C1101,Customer_101,29.0,Bengaluru,Savings,366801.0,6.06,475000,Home Loan,Pending,Retired,772.0,2019-10-10,Branch-5,Net Banking
+C1102,Customer_102,44.0,Kolkata,Savings,409191.0,5.01,1125000,No Loan,Pending,Salaried,716.0,2024-10-02,Branch-5,Net Banking
+C1103,Customer_103,21.0,Chennai,Fixed Deposit,16023.0,6.11,1775000,Home Loan,Pending,Retired,604.0,2023-11-13,Branch-2,Debit Card
+C1104,Customer_104,64.0,Jaipur,Current,26447.0,4.14,1275000,No Loan,Rejected,Retired,796.0,2021-03-04,Branch-5,UPI
+C1105,Customer_105,28.0,Mumbai,Savings,488685.0,11.46,175000,Personal Loan,Approved,Retired,590.0,2024-08-17,Branch-13,Cheque
+C1106,Customer_106,44.0,Jaipur,Savings,393043.0,8.64,1800000,Home Loan,Pending,Self-Employed,401.0,2024-01-01,Branch-4,UPI
+C1107,Customer_107,31.0,Delhi,Savings,291103.0,9.45,1250000,Car Loan,Approved,Retired,566.0,2018-04-26,Branch-1,Cash
+C1108,Customer_108,37.0,Chennai,Savings,71203.0,10.5,1375000,No Loan,Approved,Retired,302.0,2021-08-14,Branch-3,Cash
+C1109,Customer_109,28.0,Chennai,Savings,386300.0,7.74,600000,Education Loan,Approved,Retired,384.0,2022-12-02,Branch-1,Debit Card
+C1110,Customer_110,55.0,,Savings,165775.0,3.83,975000,No Loan,Approved,Self-Employed,627.0,2024-08-28,Branch-12,Debit Card
+C1111,Customer_111,55.0,Mumbai,Savings,14337.0,8.1,825000,Education Loan,Pending,Salaried,749.0,2021-05-21,Branch-11,Debit Card
+C1112,Customer_112,53.0,Delhi,Savings,51427.0,8.57,1525000,Education Loan,Rejected,Business,753.0,2023-08-06,Branch-15,Cash
+C1113,Customer_113,25.0,Jaipur,Savings,328673.0,10.08,575000,No Loan,Approved,Retired,520.0,2017-12-07,Branch-5,UPI
+C1114,Customer_114,62.0,Pune,Savings,369167.0,7.1,1825000,Home Loan,Approved,Salaried,453.0,2024-09-18,Branch-4,UPI
+C1115,Customer_115,59.0,Chennai,Savings,351809.0,4.21,900000,Personal Loan,Pending,Retired,311.0,2022-07-04,Branch-7,Debit Card
+C1116,Customer_116,61.0,Hyderabad,Savings,110787.0,5.7,0,Home Loan,Approved,Self-Employed,432.0,2024-09-09,Branch-5,Cheque
+C1117,Customer_117,48.0,Hyderabad,Savings,167993.0,6.45,125000,No Loan,Approved,Salaried,603.0,2025-04-05,Branch-10,UPI
+C1118,Customer_118,27.0,Jaipur,Fixed Deposit,300451.0,9.14,2000000,No Loan,Approved,Self-Employed,592.0,2023-11-02,Branch-14,Cash
+C1119,Customer_119,29.0,Bengaluru,Current,,8.42,800000,Home Loan,Pending,Retired,599.0,2022-02-10,Branch-4,Net Banking
+C1120,Customer_120,28.0,Kolkata,Savings,132016.0,6.38,375000,Education Loan,Rejected,Retired,342.0,2019-04-15,Branch-2,Net Banking
+C1121,Customer_121,32.0,Delhi,Savings,271979.0,12.37,1025000,No Loan,Approved,Self-Employed,642.0,2020-04-18,Branch-4,Net Banking
+C1122,Customer_122,54.0,Delhi,Savings,25159.0,8.75,1425000,Home Loan,Approved,Business,625.0,2021-09-22,Branch-12,net banking
+C1123,Customer_123,53.0,Bengaluru,Savings,183677.0,5.25,1225000,Car Loan,Rejected,Self-Employed,797.0,2026-07-11,Branch-2,Debit Card
+C1124,Customer_124,68.0,Bengaluru,Savings,388934.0,3.97,1300000,No Loan,Rejected,Retired,663.0,2021-08-17,Branch-8,Cash
+C1125,Customer_125,43.0,Jaipur,Fixed Deposit,372760.0,4.45,550000,Home Loan,Approved,Self-Employed,726.0,2025-12-12,Branch-3,Cheque
+C1126,Customer_126,44.0,Jaipur,Savings,436304.0,5.34,575000,Education Loan,Pending,Business,320.0,2026-09-08,Branch-9,Cash
+C1127,Customer_127,57.0,Bengaluru,Savings,345896.0,4.53,1725000,Personal Loan,Approved,Self-Employed,706.0,2017-11-07,Branch-13,Cash
+C1128,Customer_128,55.0,Chennai,Savings,322428.0,4.77,1250000,No Loan,Approved,Business,635.0,2017-09-19,Branch-4,Debit Card
+C1129,Customer_129,64.0,Jaipur,Savings,324187.0,5.71,1700000,No Loan,Pending,Business,416.0,2020-12-13,Branch-13,Net Banking
+C1130,Customer_130,60.0,Pune,Savings,171619.0,4.65,775000,No Loan,Approved,Self-Employed,423.0,2018-02-10,Branch-6,Debit Card
+C1131,Customer_131,42.0,Jaipur,Fixed Deposit,364151.0,11.52,1175000,Personal Loan,Rejected,Self-Employed,698.0,2022-12-31,Branch-10,Cheque
+C1132,Customer_132,47.0,Delhi,Savings,87844.0,3.76,675000,No Loan,Approved,Salaried,350.0,2017-12-08,Branch-5,Cheque
+C1133,Customer_133,55.0,Jaipur,Fixed Deposit,32532.0,7.98,1525000,No Loan,,Retired,623.0,2020-09-01,Branch-10,Cheque
+C1134,Customer_134,21.0,Chennai,Fixed Deposit,170421.0,6.9,500000,Personal Loan,Pending,Business,440.0,2025-09-08,Branch-13,Debit Card
+C1135,Customer_135,55.0,Bengaluru,Savings,127402.0,12.33,600000,No Loan,Approved,Salaried,769.0,2017-09-01,Branch-1,Cash
+C1136,Customer_136,57.0,Delhi,Savings,123012.0,4.06,650000,Home Loan,Pending,Self-Employed,633.0,2018-05-05,Branch-9,Cash
+C1137,Customer_137,67.0,Jaipur,Savings,443661.0,6.78,1175000,Car Loan,Approved,Retired,672.0,2017-01-12,Branch-1,UPI
+C1138,Customer_138,34.0,Chennai,Savings,403929.0,12.21,1725000,Home Loan,Approved,Salaried,793.0,2026-01-24,Branch-8,Cheque
+C1139,Customer_139,23.0,Pune,Savings,61178.0,11.22,1975000,Home Loan,Approved,Business,838.0,2018-07-15,Branch-9,Cash
+C1140,Customer_140,21.0,Jaipur,Current,54407.0,10.76,1175000,Home Loan,Rejected,Salaried,455.0,2017-02-11,Branch-9,UPI
+C1141,Customer_141,25.0,Chennai,Savings,468556.0,5.45,450000,Education Loan,Approved,Business,590.0,2024-06-18,Branch-1,Cash
+C1142,Customer_142,46.0,Pune,Savings,55990.0,4.62,1525000,Personal Loan,Pending,Self-Employed,443.0,2018-08-17,Branch-2,Cheque
+C1143,Customer_143,34.0,Bengaluru,Current,473888.0,,1475000,Education Loan,Approved,Retired,405.0,2020-12-23,Branch-12,Net Banking
+C1144,Customer_144,59.0,Jaipur,Savings,134473.0,11.83,1175000,Home Loan,Pending,Retired,719.0,2022-01-01,Branch-13,Cheque
+C1145,Customer_145,47.0,Pune,Current,463761.0,8.29,1725000,Personal Loan,Approved,Retired,301.0,2025-11-04,Branch-1,Debit Card
+C1146,Customer_146,29.0,Delhi,Savings,483007.0,8.43,0,Car Loan,Pending,Self-Employed,389.0,2026-01-01,Branch-10,Cash
+C1147,Customer_147,35.0,Bengaluru,Savings,325285.0,5.66,275000,No Loan,Pending,Business,644.0,2021-08-21,Branch-2,Cash
+C1148,Customer_148,35.0,Delhi,Current,422009.0,10.31,1225000,Personal Loan,Pending,Self-Employed,649.0,2026-09-04,Branch-10,Debit Card
+C1149,Customer_149,46.0,Hyderabad,Savings,323714.0,4.78,1350000,Car Loan,Pending,Retired,758.0,2017-05-14,Branch-12,Debit Card
+C1150,Customer_150,62.0,Mumbai,Fixed Deposit,231156.0,6.07,1500000,No Loan,Pending,Self-Employed,562.0,2025-08-05,Branch-8,Net Banking
+C1151,Customer_151,33.0,Jaipur,Current,173964.0,7.04,750000,Car Loan,Rejected,Self-Employed,N/A,2025-06-06,Branch-5,Cash
+C1152,Customer_152,52.0,Pune,Current,6015.0,7.82,700000,Home Loan,Approved,Self-Employed,407.0,2019-08-06,Branch-12,Cash
+C1153,Customer_153,59.0,Mumbai,Savings,66813.0,5.3,675000,Home Loan,Approved,Business,338.0,2017-03-14,Branch-11,Net Banking
+C1154,Customer_154,69.0,Mumbai,Savings,32712.0,4.09,1175000,No Loan,Pending,Salaried,458.0,2018-02-03,Branch-7,UPI
+C1155,Customer_155,52.0,Pune,Current,105497.0,8.8,1075000,Home Loan,Rejected,Salaried,,2020-11-29,Branch-2,Net Banking
+C1156,Customer_156,24.0,Bengaluru,Current,406631.0,5.74,700000,No Loan,Pending,Self-Employed,540.0,2024-03-10,Branch-8,Cheque
+C1157,Customer_157,50.0,Jaipur,Fixed Deposit,247926.0,8.52,350000,Car Loan,Approved,Salaried,744.0,2024-12-16,Branch-11,Cash
+C1158,Customer_158,57.0,Hyderabad,Savings,117816.0,4.47,950000,No Loan,Approved,Salaried,597.0,2017-05-10,Branch-6,Debit Card
+C1159,Customer_159,43.0,Delhi,Savings,133778.0,7.57,425000,No Loan,Approved,Self-Employed,335.0,2025-02-26,Branch-8,Cheque
+C1160,Customer_160,59.0,Chennai,Current,67292.0,8.06,400000,No Loan,Rejected,Self-Employed,383.0,2026-09-08,Branch-1,Cash
+C1161,Customer_161,65.0,Delhi,Savings,290977.0,3.49,0,Personal Loan,Approved,Retired,751.0,2025-12-22,Branch-15,Net Banking
+C1162,Customer_162,35.0,Chennai,Fixed Deposit,140230.0,6.2,1900000,No Loan,Approved,Salaried,684.0,2021-12-17,Branch-1,Cheque
+C1163,Customer_163,63.0,Delhi,Fixed Deposit,198752.0,4.28,1125000,Personal Loan,Approved,Business,471.0,2022-06-25,Branch-12,Cash
+C1164,Customer_164,49.0,Pune,Savings,287453.0,3.6,1600000,Personal Loan,Approved,Self-Employed,675.0,2017-09-23,Branch-7,UPI
+C1165,Customer_165,56.0,Hyderabad,Current,274114.0,12.4,900000,Car Loan,Rejected,Retired,661.0,2021-04-10,Branch-8,UPI
+C1166,Customer_166,33.0,Jaipur,Current,339618.0,6.06,1225000,No Loan,Approved,Business,440.0,2022-06-09,Branch-13,Debit Card
+C1167,Customer_167,52.0,,Savings,484920.0,10.69,1525000,No Loan,Pending,Salaried,417.0,2019-03-04,Branch-3,Cash
+C1168,Customer_168,27.0,Jaipur,Fixed Deposit,313684.0,5.42,50000,No Loan,Approved,Retired,576.0,2023-04-20,Branch-5,UPI
+C1169,Customer_169,42.0,Jaipur,Savings,156456.0,9.47,0,Personal Loan,Approved,Self-Employed,519.0,2024-11-09,Branch-12,Net Banking
+C1170,Customer_170,48.0,Jaipur,Current,285161.0,10.22,150000,Personal Loan,Approved,Business,325.0,2020-08-05,Branch-1,Cash
+C1171,Customer_171,22.0,Kolkata,Savings,343024.0,8.66,675000,Education Loan,Approved,Self-Employed,820.0,2017-06-13,Branch-7,Net Banking
+C1172,Customer_172,62.0,Bengaluru,Fixed Deposit,110570.0,7.48,1325000,Home Loan,Approved,Salaried,309.0,,Branch-5,Net Banking
+C1173,Customer_173,65.0,Delhi,Savings,275846.0,6.91,0,Home Loan,Approved,Business,677.0,2021-12-11,Branch-8,UPI
+C1174,Customer_174,26.0,Jaipur,Savings,398600.0,6.31,750000,Personal Loan,Rejected,Salaried,451.0,2024-11-20,Branch-13,Cash
+C1175,Customer_175,48.0,Delhi,Fixed Deposit,5404.0,11.83,200000,Personal Loan,Approved,Salaried,348.0,2020-02-08,Branch-8,Cheque
+C1176,Customer_176,48.0,Jaipur,Savings,439159.0,10.89,1800000,Personal Loan,Rejected,Retired,453.0,2023-07-12,Branch-9,UPI
+C1177,Customer_177,64.0,Chennai,Savings,183998.0,12.17,800000,Home Loan,Pending,Self-Employed,592.0,2019-04-02,Branch-7,UPI
+C1178,Customer_178,64.0,Bengaluru,Fixed Deposit,427405.0,4.18,1325000,Home Loan,Pending,Business,349.0,2017-08-26,Branch-11,Cash
+C1179,Customer_179,40.0,Bengaluru,Fixed Deposit,279907.0,9.94,750000,Home Loan,Approved,Salaried,830.0,2023-08-26,Branch-1,Cash
+C1180,Customer_180,50.0,Pune,Savings,154456.0,11.91,1200000,No Loan,Approved,Salaried,359.0,2026-08-09,Branch-13,Net Banking
+C1181,Customer_181,31.0,Kolkata,Savings,196172.0,4.72,125000,Personal Loan,Approved,Business,466.0,2025-01-25,Branch-3,Cash
+C1182,Customer_182,48.0,Pune,Savings,365286.0,3.63,150000,Personal Loan,Approved,Salaried,501.0,2023-12-06,Branch-8,Net Banking
+C1183,Customer_183,45.0,Pune,Savings,145932.0,10.04,1575000,Education Loan,Pending,Retired,445.0,2022-05-15,Branch-3,UPI
+C1184,Customer_184,59.0,Pune,Savings,240365.0,8.46,1375000,Home Loan,Approved,Retired,738.0,2025-01-28,Branch-8,Debit Card
+C1185,Customer_185,53.0,Pune,Current,347786.0,11.0,1625000,No Loan,Approved,Retired,541.0,2019-11-15,Branch-1,Cheque
+C1186,Customer_186,21.0,Pune,Current,55612.0,4.33,1425000,No Loan,Rejected,Retired,782.0,2021-08-04,Branch-5,UPI
+C1187,Customer_187,47.0,Hyderabad,Current,290718.0,10.56,1750000,Home Loan,Rejected,Salaried,407.0,2025-09-24,Branch-4,Cash
+C1188,Customer_188,33.0,Bengaluru,Current,290668.0,4.92,1300000,Personal Loan,Rejected,Business,525.0,2023-12-05,Branch-5,Cheque
+C1189,Customer_189,61.0,Pune,Savings,205244.0,4.55,1625000,No Loan,Approved,Business,731.0,2026-06-26,Branch-8,Debit Card
+C1190,Customer_190,23.0,Jaipur,Savings,278060.0,4.56,1225000,No Loan,Approved,Business,718.0,2025-02-12,Branch-10,Debit Card
+C1191,Customer_191,59.0,Bengaluru,Savings,9809.0,10.74,150000,Personal Loan,Approved,Business,754.0,2025-04-30,Branch-15,Net Banking
+C1192,Customer_192,26.0,Bengaluru,Savings,168273.0,9.32,800000,Car Loan,Approved,Self-Employed,459.0,2019-08-22,Branch-14,Cheque
+C1193,Customer_193,28.0,Mumbai,Savings,189402.0,7.97,825000,Home Loan,Approved,Business,822.0,2018-06-21,Branch-4,Net Banking
+C1194,Customer_194,47.0,Hyderabad,Fixed Deposit,149528.0,6.41,1900000,No Loan,Approved,Self-Employed,376.0,2025-08-17,Branch-11,UPI
+C1195,Customer_195,29.0,Pune,Savings,454613.0,11.33,750000,Home Loan,Approved,Self-Employed,808.0,2021-05-23,Branch-4,Cheque
+C1196,Customer_196,57.0,Delhi,Savings,388432.0,6.73,1100000,No Loan,Approved,Retired,740.0,2025-11-19,Branch-15,UPI
+C1197,Customer_197,53.0,Chennai,Savings,43765.0,10.76,350000,Car Loan,Approved,Self-Employed,553.0,2022-06-03,Branch-3,Net Banking
+C1198,Customer_198,62.0,Kolkata,Current,433032.0,7.17,1650000,Car Loan,Rejected,Salaried,619.0,2025-06-11,Branch-7,Cheque
+C1199,Customer_199,64.0,Jaipur,Savings,312250.0,6.58,875000,Car Loan,Rejected,Self-Employed,562.0,2017-05-08,Branch-3,Net Banking
+C1200,Customer_200,44.0,Delhi,Savings,321076.0,7.4,1300000,Home Loan,Pending,Retired,673.0,2017-04-02,Branch-12,Cheque
+C1021,Customer_21,50.0,Delhi,Savings,456070.0,5.02,325000,Personal Loan,Rejected,Retired,581.0,2017-03-14,Branch-2,Debit Card
